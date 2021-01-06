@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-<!--
-**CarvalhoNathan/CarvalhoNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Nathan Carvalho, moro em Santos/São Paulo. 👨🏻‍💻 
 
-Here are some ideas to get you started:
+- 🚀 Atualmente estudo Infonet (Técnico) na ETEC Aristóteles Ferreira, estou no 3º módulo.
+- 📚 Estou estudando: HTML5, CSS3, Bootstrap, Javascript.
+- 🎯 Tenho interesse: ReactJs, Nodejs e TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=fariasnathan75@gmail.com"/></a>
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathancarvalho/" /></a>
+</div>
