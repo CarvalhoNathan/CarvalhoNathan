@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-- 🚀 Atualmente estudo Infonet (Técnico) na ETEC Aristóteles Ferreira, estou no 3º módulo.
+🚀 Atualmente estudo Infonet (Técnico) na ETEC Aristóteles Ferreira, estou no 3º módulo.
 </p>
 
 <p align="left">
-- 📚 Estou estudando: HTML5, CSS3, Bootstrap, Javascript.
+📚 Estou estudando: HTML5, CSS3, Bootstrap, Javascript.
 </p>
 
 <p align="left">
-- 🎯 Tenho interesse: ReactJs, Nodejs e TypeScript.
+🎯 Tenho interesse: ReactJs, Nodejs e TypeScript.
 </p>
 
 <p align="left">
