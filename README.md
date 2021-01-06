@@ -1,6 +1,6 @@
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-Me chamo Nathan Carvalho, moro em Santos/São Paulo. 👨🏻‍💻 
+Me chamo Nathan Carvalho, tenho 18 anos, moro em Santos/São Paulo.👨🏻‍💻
 
 - 🚀 Atualmente estudo Infonet (Técnico) na ETEC Aristóteles Ferreira, estou no 3º módulo.
 - 📚 Estou estudando: HTML5, CSS3, Bootstrap, Javascript.
