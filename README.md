@@ -1,7 +1,7 @@
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 <p align="left">
-  Me chamo Nathan Carvalho, tenho 18 anos, moro em Santos/São Paulo.👨🏻‍💻
+  Me chamo Nathan Carvalho, moro em Santos/São Paulo.👨🏻‍💻
 </p>
 
 <p align="left">
