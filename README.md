@@ -12,7 +12,7 @@
   - 👨🏻‍💻 I'm graduated in an IT technician course in <a href="http://etecaf.com.br ">Etec Aristoteles Ferreira</a>
   - 💖 I'm passionate about understanding Frontend development and UX / UI Design
   - 📖 Even though I'm not an expert, I like to share my knowledge with other people
-  - 📝 My profile at DIO <a href="https://web.digitalinnovation.one/users/nathancarvalho?tab=achievements"> (Digital Innovation One)</a>
+  - 📝 My profile at DIO <a href="https://web.dio.me/users/nathancarvalho?tab=achievements"> (Digital Innovation One)</a>
   <br>
 
 <!-- ****************** GitHub profile stats ****************** -->
