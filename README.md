@@ -16,27 +16,18 @@
   <br>
 
 <!-- ****************** GitHub profile stats ****************** -->
-<div align="left" width="100%">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=carvalhonathan&count_private=true&show_icons=true&theme=gotham&line_height=25" alt="Nathan Carvalho's GitHub stats"/>
-  </a>
-</div><br>
-<div align="left" width="100%">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhonathan&exclude_repo=,&hide=shell&langs_count=6&theme=gotham&layout=compact&count_private=true" alt="Nathan Carvalho's Most Used Languages"/>
-  </a>
-</div><br>
-<div align="left" width="100%">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=carvalhonathan&theme=gotham" />
-  </a>
+
+<div align="justify">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=carvalhonathan&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhonathan&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/carvalhonathan) 
 
 <!-- ******************** Connect with me ******************-->
-### 🔗 Connect with me 
+#### 🔗 Connect with me
 
 <div>  	
   <a href = "mailto:fariasnathan75@gmail.com" target="_blank">
