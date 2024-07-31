@@ -9,32 +9,14 @@
 <!-- ****************** A little bit more of me ****************** -->
 ### A little bit more of me...
 
-  - 👨🏻‍💻 I'm graduated in an IT technician course in <a href="http://etecaf.com.br ">Etec Aristoteles Ferreira</a>
-  - 💖 I'm passionate about understanding Frontend development and UX / UI Design
-  - 📖 Even though I'm not an expert, I like to share my knowledge with other people
-  - 📝 My profile at DIO <a href="https://web.dio.me/users/nathancarvalho?tab=achievements"> (Digital Innovation One)</a>
-  <br>
+  - 👨🏻‍💻 Graduated in IT Technician from <a href="http://etecaf.com.br ">Etec Aristoteles Ferreira</a>
+  - 🌍 Passionate about Frontend Development and UX/UI Design
+  - 📖 Knowledge-sharing enthusiast, always engaging with the community
+  - 📝 My profile on <a href="https://dio.me/users/nathancarvalho"> DIO</a>
 
 <!-- ****************** GitHub profile stats ****************** -->
 
 <div align="justify">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=carvalhonathan&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhonathan&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-
-<br>
-
-![Profile views](https://gpvc.arturio.dev/carvalhonathan) 
-
-<!-- ******************** Connect with me ******************-->
-#### 🔗 Connect with me
-
-<div>  	
-  <a href = "mailto:fariasnathan75@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail - fariasnathan75@gmail.com">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/nathancarvalho" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin - /NathanCarvalho">
-  </a>
 </div>
