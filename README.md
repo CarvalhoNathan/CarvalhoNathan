@@ -11,6 +11,6 @@
 
   - 🎓 Currently studying Internet Systems at [Fatec - Rubens Lara](https://www.fatecrl.edu.br)
   - 👨🏻‍💻 Graduated in IT Technician from [Etec - Aristoteles Ferreira](http://etecaf.com.br)
-  - 🌍 Passionate about Front-End Development** and **UX/UI Design
+  - 🌍 Passionate about **Front-End Development** and **UX/UI Design**
   - 📖 Knowledge-sharing enthusiast, always engaging with the community
 
