@@ -10,6 +10,6 @@
 ### A little bit about me...
   - 🎓 Currently studying Internet Systems at [Fatec - Rubens Lara](https://www.fatecrl.edu.br)
   - 👨🏻‍💻 Graduated in IT Technician from [Etec - Aristoteles Ferreira](http://etecaf.com.br)
-  - ☁️ Building my path into **Cloud Infrastructure** and **Cybersecurity**, backed by Google Cloud, AWS and Cisco certifications
-  - 💻 Solid foundation in **Front-End Development** (React, TypeScript, JavaScript)
+  - ☁️ Advancing into **Cloud Infrastructure** and **Cybersecurity**, backed by Google Cloud, AWS and Cisco certifications
+  - 💻 **Front-End Development** with React, TypeScript & AI integration — see [planej.ai](https://github.com/CarvalhoNathan/planejai) 📈
   - 📖 Knowledge-sharing enthusiast, always engaging with the community
