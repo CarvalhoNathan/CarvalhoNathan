@@ -12,4 +12,4 @@
   - 👨🏻‍💻 Graduated in IT Technician from [Etec - Aristoteles Ferreira](http://etecaf.com.br)
   - ☁️ Advancing into **Cloud Infrastructure** and **Cybersecurity**, backed by Google Cloud, AWS and Cisco certifications
   - 💻 **Front-End Development** with React, TypeScript & AI integration — see [planej.ai](https://github.com/CarvalhoNathan/planejai) 📈
-  - 📖 Knowledge-sharing enthusiast, always engaging with the community
+  - 📖 Always learning — currently deep in Cloud, Security and AI
